@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700;900&family=Cinzel:wght@400;700&display=swap');
+
+body {
+    background-color: rgb(72, 14, 74);
+}
+img {
+    width: 300px;
+    height: 100px;
+    position: absolute;
+    margin-left: 40px;
+}
+h1 {
+    padding-top: 170px;
+    color: white;
+    font-family: 'Cinzel Decorative', serif;
+    font-size: 50px;
+}
+p {
+    color: white;
+    font-family: Cinzel, serif;
+    font-size: 20px;
+    padding-right: 50px;
+}
